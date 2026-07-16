@@ -36,4 +36,5 @@ REST APIs, C#/.NET BFF, SQL / SSMS, Node.js, Express, NestJS, MongoDB, RabbitMQ
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Zohar%20Haruv-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zohar-haruv/) 
 [![Email](https://img.shields.io/badge/Email-Contact%20me-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:zoharharuv@gmail.com)
-[![Visitors](https://img.shields.io/badge/Visitors-F6F6F6?style=flat-square)](https://visitor-badge.laobi.icu/badge?page_id=zoharharuv.zoharharuv)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zoharharuv&hide=TeX&layout=compact)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=zoharharuv.zoharharuv)
