@@ -1,39 +1,38 @@
-**Hi! I'm Zohar Haruv, a fullstack web developer** </br>
+# Hi, I'm Zohar Haruv 👋
 
-### 📫 Contact me
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zohar-haruv-a6690b210/)](https://www.linkedin.com/in/zohar-haruv-a6690b210/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zoharpr0@gmail.com)](mailto:zoharpr0@gmail.com)
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-0D8BF0?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/MisterBlat/)](https://www.facebook.com/MisterBlat/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/muzic_by_z/)](https://www.instagram.com/muzic_by_z/)
+Frontend Engineer based in southern Israel, specializing in building reliable, user-focused web applications with **React, TypeScript, and JavaScript**.
 
----
-## 🐱‍👤 Little bit about me
-I come from a small settlement in south Israel, I started programming at the age of 14 and it kinda grew in me as the years went on 😁
+I have nearly 5 years of professional software-development experience across financial and B2B product environments. I enjoy turning product requirements and Figma designs into maintainable frontend systems, with a strong focus on application logic, testing, accessibility, and production quality.
 
----
-## 💻 The technologies I work with
+## What I focus on
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Redux](https://img.shields.io/badge/-Redux-181717?style=flat-square&logo=redux)
-![jQuery](https://img.shields.io/badge/-jQuery-black?style=flat-square&logo=jquery)
-![EJS](https://img.shields.io/badge/-EJS-black?style=flat-square&logo=ejs)
-![SCSS](https://img.shields.io/badge/-SCSS-purple?style=flat-square&logo=scss)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![Vue](https://img.shields.io/badge/-Vue.js-f1f1f1?style=flat-square&logo=vue.js)
-![Node.js](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Mongoose](https://img.shields.io/badge/-Mongoose-green?style=flat-square&logo=mongoose)
-![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=sql)
-![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+- Building complex product interfaces with React and TypeScript
+- Translating product requirements and Figma designs into maintainable UI
+- Designing reusable components and working with UI kits / design systems
+- Managing server state and API integration with TanStack Query
+- Building end-to-end test coverage with Playwright
+- Debugging production issues through logs, monitoring, and data investigation
+- Collaborating closely with Product, Design, Backend, and QA teams
+- Using AI-assisted development workflows with GitHub Copilot and Claude
 
+## Core technologies
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=zoharharuv&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zoharharuv&hide=TeX&layout=compact)
+**Frontend**  
+React, TypeScript, JavaScript, TanStack Query, Redux, Next.js, Storybook, styled-components
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=zoharharuv.zoharharuv)
+**Testing & delivery**  
+Playwright, Cypress, Jenkins, CI/CD, ReportPortal, Splunk, OpenShift
+
+**Additional experience**  
+REST APIs, C#/.NET BFF, SQL / SSMS, Node.js, Express, NestJS, MongoDB, RabbitMQ
+
+## Currently
+
+- Refining my frontend engineering portfolio
+- Building practical React and TypeScript projects
+- Preparing for frontend-focused engineering opportunities from October 2026
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Zohar%20Haruv-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zohar-haruv/)
+[![Email](https://img.shields.io/badge/Email-Contact%20me-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:zoharharuv@gmail.com)
